@@ -1,0 +1,186 @@
+ul {
+   list-style-type: none;
+   padding: 20px;
+   width: 90%;
+   max-width: 400px;
+   margin: 20px auto;
+   border-radius: 8px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: all 0.3s ease-in-out; 
+   border: 4px solid black;
+   overflow: hidden;
+   background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+}
+
+
+#basico{
+   text-align: center;
+   background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+   color: rgb(0, 0, 0);
+   list-style-type: none;
+   padding: 20px;
+   width: 90%;
+   max-width: 600px;
+   margin: 20px auto;
+   border-radius: 8px;
+   border: 4px solid black;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: all 0.3s ease-in-out; 
+   overflow: hidden;
+}  
+
+#aviso{
+   text-align: center;
+   background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+   color: rgb(0, 0, 0);
+   list-style-type: none;
+   padding: 20px;
+   width: 90%;
+   max-width: 600px;
+   margin: 20px auto;
+   border-radius: 8px;
+   border: 4px solid black;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: all 0.3s ease-in-out; 
+   overflow: hidden;
+}
+li a {
+   display: block;
+   color: rgb(0, 0, 0);
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+  
+li a:hover {
+   background-color: #e7c79c;
+}
+
+h1{
+   text-align: center;
+}
+
+body{
+   background-image: url("https://static.vecteezy.com/ti/fotos-gratis/p2/1948406-tampo-da-mesa-de-madeira-para-exibicao-com-fundo-desfocado-do-restaurante-gratis-foto.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+   min-height: 100vh;
+   margin: 0;
+}
+
+#Adicao{
+    text-align: center;
+    background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+    padding: 20px;
+    width: 90%;
+    max-width: 600px;
+    margin: 20px auto;
+    border-radius: 8px;
+    border: 4px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out; 
+    overflow: hidden;
+}
+
+#Edicao{
+    text-align: center;
+    background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+    padding: 20px;
+    width: 90%;
+    max-width: 600px;
+    margin: 20px auto;
+    border-radius: 8px;
+    border: 4px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out; 
+    overflow: hidden;
+}
+#sofrimento{
+   text-align: center;
+   background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+   color: rgb(0, 0, 0);
+   list-style-type: none;
+   padding: 20px;
+   width: 90%;
+   max-width: 600px;
+   margin: 20px auto;
+   border-radius: 8px;
+   border: 4px solid black;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: all 0.3s ease-in-out; 
+   overflow: hidden;
+}
+
+#Formulas{
+   text-align: center;
+   background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+   color: rgb(0, 0, 0);
+   list-style-type: none;
+   padding: 20px;
+   width: 90%;
+   max-width: 600px;
+   margin: 20px auto;
+   border-radius: 8px;
+   border: 4px solid black;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: all 0.3s ease-in-out; 
+   overflow: hidden;
+}
+#Login{
+   text-align: center;
+   background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+   color: rgb(0, 0, 0);
+   list-style-type: none;
+   padding: 20px;
+   width: 90%;
+   max-width: 600px;
+   margin: 20px auto;
+   border-radius: 8px;
+   border: 4px solid black;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: all 0.3s ease-in-out; 
+   overflow: hidden;
+}
+#Cadastrar{
+   text-align: center;
+   background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+   color: rgb(0, 0, 0);
+   list-style-type: none;
+   padding: 20px;
+   width: 90%;
+   max-width: 600px;
+   margin: 20px auto;
+   border-radius: 8px;
+   border: 4px solid black;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: all 0.3s ease-in-out; 
+   overflow: hidden;
+}
+#Tabela{
+   list-style-type: none;
+   padding: 20px;
+   width: 90%;
+   max-width: 500px;
+   margin: 20px auto;
+   border-radius: 8px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: all 0.3s ease-in-out;
+   border: 4px solid black;
+   overflow: hidden;
+   background-image: url("https://i.pinimg.com/736x/0f/6d/f7/0f6df799c5fef421e7bea4f19ec231e3.jpg");
+   margin-top: 2%;
+   text-align: center;
+}
+
+#titulo{
+   border: 4px solid black;
+   padding: 8px;
+   text-align: center;
+   background-color: #f2f2f2;
+}

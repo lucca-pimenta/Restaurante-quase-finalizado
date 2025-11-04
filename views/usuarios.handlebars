@@ -1,0 +1,28 @@
+<div id="Tabela">
+    <h1 id="titulo">Usuários Cadastrados</h1>
+
+    {{#if usuarios.length}}
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>Cargo</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each usuarios}}
+                <tr>
+                    <td>{{id}}</td>
+                    <td>{{nome}}</td>
+                    <td>{{Cargo}}</td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    {{else}}
+        <p>Nenhum usuário encontrado.</p>
+    {{/if}}
+
+    <p><a href="/">↩️ Voltar</a></p>
+</div>
